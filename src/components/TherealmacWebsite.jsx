@@ -148,7 +148,7 @@ const TherealmacWebsite = () => {
           </h1>
           <p className="text-xl text-zinc-400 mb-10 max-w-2xl mx-auto">
             Premium web solutions designed by an automotive professional who
-            understands your industry. Not just websites—complete digital
+            understands your industry. Not just websites, complete digital
             systems that drive sales and streamline operations.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -241,8 +241,10 @@ const TherealmacWebsite = () => {
               </div>
               <h3 className="text-xl font-bold mb-3">Industry Expertise</h3>
               <p className="text-zinc-400">
-                Built by someone who's worked in automotive sales and business
-                operations—not just coding.
+                Built by a team of experienced professionals with a strong
+                understanding of diverse industries, enabling us to create
+                websites that truly reflect each client's business vision and
+                objectives.
               </p>
             </div>
             <div className="text-center">
